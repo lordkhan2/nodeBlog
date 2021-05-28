@@ -1,1 +1,1 @@
-A simple blog add using node, express, mongoDB
+A simple blog add using node, express, mongoDB, ejs
